@@ -4,3 +4,8 @@ scikit-learn
 jupyter
 torch
 transformers
+fastapi
+uvicorn
+tqdm
+streamlit
+plotly
